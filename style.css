@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 700px;
+}
